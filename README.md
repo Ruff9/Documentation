@@ -7,6 +7,8 @@ Some documents are important in my learning process. I decided to store them her
 
 [Teach yourself programming in ten years](http://norvig.com/21-days.html)
 
+[Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+
 ##Unix 
 [The Unix and Internet Fundamentals](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
 
