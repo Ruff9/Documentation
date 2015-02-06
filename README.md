@@ -1,16 +1,15 @@
 # Documentation
 
-##General wisdom
 [How to become a hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
 
 [Teach yourself programming in ten years](http://norvig.com/21-days.html)
 
 [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 
-[The Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
-
-##Unix 
+##Fundamentals
 [The Unix and Internet Fundamentals](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
+
+[The Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
 
 ##Languages
 
