@@ -13,6 +13,10 @@
 
 ##Languages
 
+###HTML
+
+[Dive into HTML5](http://fortuito.us/diveintohtml5/)
+
 ###Ruby
 
 [Ruby Monk](https://rubymonk.com/) (tutorial)
