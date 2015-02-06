@@ -28,5 +28,9 @@
 ###Coffeescript
 [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/index.html)
 
-##Mobile
+##Design
+
+[Less is More: Fundamentals of Minimalist Web Design](http://webdesign.tutsplus.com/articles/less-is-more-fundamentals-of-minimalist-web-design--webdesign-8)
+
+###Mobile
 [Mobile Web App Checklist](http://www.luster.io/blog/9-29-14-mobile-web-checklist.html)
