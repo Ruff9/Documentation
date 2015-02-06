@@ -12,5 +12,14 @@ Some documents are important in my learning process. I decided to store them her
 ##Unix 
 [The Unix and Internet Fundamentals](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
 
+##Languages
+
+###Ruby
+
+###Javascript
+
+###Coffeescript
+[The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/index.html)
+
 ##Mobile
 [Mobile Web App Checklist](http://www.luster.io/blog/9-29-14-mobile-web-checklist.html)
