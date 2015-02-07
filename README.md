@@ -7,6 +7,9 @@
 [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 
 ##Fundamentals
+
+[The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
+
 [The Unix and Internet Fundamentals](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
 
 [The Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
@@ -14,7 +17,6 @@
 ##Languages
 
 ###HTML
-
 [Dive into HTML5](http://fortuito.us/diveintohtml5/)
 
 ###Ruby
@@ -24,10 +26,11 @@
 [Ruby on Rails Tutorial M Hartl](https://www.railstutorial.org/book)
 
 ###Javascript
-
 [Eloquent Javascript](http://fr.eloquentjavascript.net/contents.html)
 
 [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+[The Node Beginner Book](http://www.nodebeginner.org/)
 
 ###Coffeescript
 [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/index.html)
