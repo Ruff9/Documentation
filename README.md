@@ -44,7 +44,7 @@
 
 ##AdminSys
 
-[How heroku works](https://devcenter.heroku.com/articles/how-heroku-works)
+[How Heroku works](https://devcenter.heroku.com/articles/how-heroku-works)
 
 ##More Books
 
