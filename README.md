@@ -42,6 +42,10 @@
 ###Mobile
 [Mobile Web App Checklist](http://www.luster.io/blog/9-29-14-mobile-web-checklist.html)
 
+##AdminSys
+
+[How heroku works](https://devcenter.heroku.com/articles/how-heroku-works)
+
 ##More Books
 
 [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
