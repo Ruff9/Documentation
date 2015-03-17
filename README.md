@@ -39,6 +39,8 @@
 
 [Less is More: Fundamentals of Minimalist Web Design](http://webdesign.tutsplus.com/articles/less-is-more-fundamentals-of-minimalist-web-design--webdesign-8)
 
+[The State Of Animation 2014](http://www.smashingmagazine.com/2014/11/18/the-state-of-animation-2014/)
+
 ###Mobile
 [Mobile Web App Checklist](http://www.luster.io/blog/9-29-14-mobile-web-checklist.html)
 
