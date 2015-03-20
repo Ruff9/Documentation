@@ -14,6 +14,8 @@
 
 [The Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
 
+[The twelve-factors app](http://12factor.net/)
+
 ##Languages
 
 ###HTML
