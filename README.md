@@ -41,6 +41,10 @@
 
 [Less is More: Fundamentals of Minimalist Web Design](http://webdesign.tutsplus.com/articles/less-is-more-fundamentals-of-minimalist-web-design--webdesign-8)
 
+##Animation
+
+[Animation Principles for the Web](https://cssanimation.rocks/principles/)
+
 [The State Of Animation 2014](http://www.smashingmagazine.com/2014/11/18/the-state-of-animation-2014/)
 
 ###Mobile
