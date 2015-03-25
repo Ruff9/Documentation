@@ -28,6 +28,9 @@
 [Ruby on Rails Tutorial M Hartl](https://www.railstutorial.org/book)
 
 ###Javascript
+
+[The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070)
+
 [Eloquent Javascript](http://fr.eloquentjavascript.net/contents.html)
 
 [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
