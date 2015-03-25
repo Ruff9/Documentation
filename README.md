@@ -21,12 +21,6 @@
 ###HTML
 [Dive into HTML5](http://fortuito.us/diveintohtml5/)
 
-###Ruby
-
-[Ruby Monk](https://rubymonk.com/) (tutorial)
-
-[Ruby on Rails Tutorial M Hartl](https://www.railstutorial.org/book)
-
 ###Javascript
 
 [The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070)
@@ -39,6 +33,12 @@
 
 ###Coffeescript
 [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/index.html)
+
+###Ruby
+
+[Ruby Monk](https://rubymonk.com/) (tutorial)
+
+[Ruby on Rails Tutorial M Hartl](https://www.railstutorial.org/book)
 
 ##Design
 
