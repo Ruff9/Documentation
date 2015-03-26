@@ -6,6 +6,8 @@
 
 [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 
+[Legendary hackers](http://www.autistici.org/rez/hackers.php)
+
 ##Fundamentals
 
 [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
@@ -51,6 +53,7 @@
 [The State Of Animation 2014](http://www.smashingmagazine.com/2014/11/18/the-state-of-animation-2014/)
 
 ###Mobile
+
 [Mobile Web App Checklist](http://www.luster.io/blog/9-29-14-mobile-web-checklist.html)
 
 ##AdminSys
