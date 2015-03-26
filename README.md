@@ -65,4 +65,4 @@
 
 [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
 
-[free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md#clojure)
+[free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md)
