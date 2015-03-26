@@ -4,7 +4,7 @@
 
 [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 
-##Hacker's culture
+##Culture
 
 [How to become a hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
 
