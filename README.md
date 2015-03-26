@@ -10,6 +10,8 @@
 
 [Legendary hackers](http://www.autistici.org/rez/hackers.php)
 
+[The Jargon File](http://www.catb.org/jargon/html/)
+
 [Hacker Mythologies and Mismanagement](https://modelviewculture.com/pieces/hacker-mythologies-and-mismanagement)
 
 ##Web development fundamentals
