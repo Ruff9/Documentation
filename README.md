@@ -1,14 +1,18 @@
 # Documentation
 
-[How to become a hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
-
 [Teach yourself programming in ten years](http://norvig.com/21-days.html)
 
 [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 
+##Hacker's culture
+
+[How to become a hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
+
 [Legendary hackers](http://www.autistici.org/rez/hackers.php)
 
-##Fundamentals
+[Hacker Mythologies and Mismanagement](https://modelviewculture.com/pieces/hacker-mythologies-and-mismanagement)
+
+##Web development fundamentals
 
 [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
 
