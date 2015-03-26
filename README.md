@@ -14,7 +14,7 @@
 
 [Hacker Mythologies and Mismanagement](https://modelviewculture.com/pieces/hacker-mythologies-and-mismanagement)
 
-##Web development fundamentals
+##Fundamentals
 
 [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
 
