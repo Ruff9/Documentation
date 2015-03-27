@@ -40,9 +40,9 @@
 
 ###Ruby
 
-[Ruby Monk](https://rubymonk.com/) (tutorial)
+[Why's (Poignant) guide to Ruby](http://mislav.uniqpath.com/poignant-guide/book/chapter-1.html)
 
-[Ruby on Rails Tutorial M Hartl](https://www.railstutorial.org/book)
+[Ruby Monk](https://rubymonk.com/) (tutorial)
 
 ###HTML
 [Dive into HTML5](http://fortuito.us/diveintohtml5/)
