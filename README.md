@@ -42,7 +42,7 @@
 
 [Why's (Poignant) guide to Ruby](http://mislav.uniqpath.com/poignant-guide/book/chapter-1.html)
 
-[Ruby Monk](https://rubymonk.com/) (tutorial)
+[Ruby Monk](https://rubymonk.com/)
 
 ###HTML
 [Dive into HTML5](http://fortuito.us/diveintohtml5/)
