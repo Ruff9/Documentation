@@ -34,8 +34,6 @@
 
 [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
-[The Node Beginner Book](http://www.nodebeginner.org/)
-
 [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/index.html)
 
 ###Ruby
