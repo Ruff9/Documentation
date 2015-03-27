@@ -40,6 +40,8 @@
 
 ###Ruby
 
+[About Ruby](https://www.ruby-lang.org/en/about/)
+
 [Why's (Poignant) guide to Ruby](http://mislav.uniqpath.com/poignant-guide/book/chapter-1.html)
 
 [Ruby Monk](https://rubymonk.com/)
