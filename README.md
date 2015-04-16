@@ -34,6 +34,8 @@
 
 [Eloquent Javascript](http://fr.eloquentjavascript.net/contents.html)
 
+[Javascript, the good parts](https://www.acmi.net.au/media/12347/javascript_the_good_parts.pdf)
+
 [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/index.html)
