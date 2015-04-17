@@ -53,6 +53,8 @@
 
 ##Misc
 
+[Don't make me think](http://www.ni.ac.rs/images/stories/opsti/DMMT.pdf)
+
 [Less is More: Fundamentals of Minimalist Web Design](http://webdesign.tutsplus.com/articles/less-is-more-fundamentals-of-minimalist-web-design--webdesign-8)
 
 [Mobile Web App Checklist](http://www.luster.io/blog/9-29-14-mobile-web-checklist.html)
