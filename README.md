@@ -12,13 +12,15 @@
 
 [Hacker Mythologies and Mismanagement](https://modelviewculture.com/pieces/hacker-mythologies-and-mismanagement)
 
-[The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
+[The story of Mel](http://www.pbm.com/~lindahl/mel.html)
 
 [The Unix and Internet Fundamentals](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
 
 [The Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
 
 ##Agility
+
+[The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
 
 [Modern Extreme Programming](http://benjiweber.co.uk/blog/2015/04/17/modern-extreme-programming/)
 
