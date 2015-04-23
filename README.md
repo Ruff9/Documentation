@@ -1,6 +1,6 @@
 # Documentation
 
-I'm a beginner at programming. To learn the best I can, I collect wisdom from masters. This is a list of texts that shaped my mind during this journey. The objective is to collect important cultural material for the future noobs to come. Feel free to had anything important to you.  
+I'm a beginner at programming and to learn the best I can, I collect wisdom from masters. This is a list of texts that influenced me, the objective is to collect important cultural material for the future noobs to come. Feel free to had anything important to you.  
 
 [Teach yourself programming in ten years](http://norvig.com/21-days.html)
 
