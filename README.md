@@ -6,6 +6,8 @@ I'm a beginner at programming, so I collect wisdom from masters. I created that 
 
 [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 
+[Portrait of a noob](http://steve-yegge.blogspot.fr/2008/02/portrait-of-n00b.html)
+
 ##Culture
 
 [How to become a hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
@@ -71,7 +73,7 @@ I'm a beginner at programming, so I collect wisdom from masters. I created that 
 
 [The State Of Animation 2014](http://www.smashingmagazine.com/2014/11/18/the-state-of-animation-2014/)
 
-##More Books
+##Bookshelves
 
 [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
 
