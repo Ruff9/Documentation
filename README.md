@@ -2,21 +2,21 @@
 
 I'm a beginner at programming, so I collect wisdom from masters. All these texts changed something in my vision of the job, and together, they define a culture for the field.
 
+[How to become a hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
+
 [Teach yourself programming in ten years](http://norvig.com/21-days.html)
 
 [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 
 [Portrait of a noob](http://steve-yegge.blogspot.fr/2008/02/portrait-of-n00b.html)
 
-##Culture
-
-[How to become a hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
+##History
 
 [Legendary hackers](http://www.autistici.org/rez/hackers.php)
 
-[Hacker Mythologies and Mismanagement](https://modelviewculture.com/pieces/hacker-mythologies-and-mismanagement)
-
 [The story of Mel](http://www.pbm.com/~lindahl/mel.html)
+
+##Technical fundamentals
 
 [The Unix and Internet Fundamentals](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
 
@@ -25,6 +25,8 @@ I'm a beginner at programming, so I collect wisdom from masters. All these texts
 ##Agility
 
 [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
+
+[Hacker Mythologies and Mismanagement](https://modelviewculture.com/pieces/hacker-mythologies-and-mismanagement)
 
 [Modern Extreme Programming](http://benjiweber.co.uk/blog/2015/04/17/modern-extreme-programming/)
 
@@ -75,6 +77,6 @@ I'm a beginner at programming, so I collect wisdom from masters. All these texts
 
 ##Bookshelves
 
-[Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
-
 [free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md)
+
+[Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
