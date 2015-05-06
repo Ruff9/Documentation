@@ -1,6 +1,6 @@
 # Documentation
 
-I'm a beginner at programming, so I collect wisdom from masters. I created that list to collect important cultural material for the future noobs to come. Feel free to add anything important to you.  
+I'm a beginner at programming, so I collect wisdom from masters. All these texts changed something in my vision of the job, and together, they define a culture for the field.
 
 [Teach yourself programming in ten years](http://norvig.com/21-days.html)
 
