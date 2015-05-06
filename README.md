@@ -1,6 +1,6 @@
 # Documentation
 
-I'm a beginner at programming, so I collect wisdom from masters. All these texts changed something in my vision of the job, and together, they define a culture for the field.
+I'm a beginner at programming, so I collect wisdom from masters. Every one of these texts changed something in my vision of the job, and I hope that together, they define some cultural background for the profession.
 
 [How to become a hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
 
