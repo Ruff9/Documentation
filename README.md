@@ -80,3 +80,5 @@ I'm a beginner at programming, so I collect wisdom from masters. Every one of th
 [free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md)
 
 [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
+
+[Google: Guide for technical development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
