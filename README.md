@@ -26,13 +26,16 @@ I'm a beginner at programming, so I collect wisdom from masters. Every one of th
 
 [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
 
-[Hacker Mythologies and Mismanagement](https://modelviewculture.com/pieces/hacker-mythologies-and-mismanagement)
-
 [Modern Extreme Programming](http://benjiweber.co.uk/blog/2015/04/17/modern-extreme-programming/)
 
 [The Twelve-Factor app](http://12factor.net/)
 
+##Human Factor
+[Be kind](http://boz.com/articles/be-kind.html)
+
 [The Surprisingly Large Cost of Telling Small Lies](http://boss.blogs.nytimes.com/2014/03/11/the-surprisingly-large-cost-of-telling-small-lies/)
+
+[Hacker Mythologies and Mismanagement](https://modelviewculture.com/pieces/hacker-mythologies-and-mismanagement)
 
 ##Languages
 
