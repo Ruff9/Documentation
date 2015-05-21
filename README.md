@@ -1,6 +1,6 @@
 # Documentation
 
-I'm a beginner at programming, I try to learn in an efficient way. Entering in a new field does not only require technical knowledge. You also need to understand the cultural background of the profession.
+I'm a beginner at programming, I try to learn in an efficient way. Entering a new field does not only require technical knowledge. Every profession has a cultural background, which is critical to understand if you want to do things right. This file is an attempt to define the culture of the programming field.
 
 ##Starting
 
@@ -20,12 +20,6 @@ I'm a beginner at programming, I try to learn in an efficient way. Entering in a
 
 [The story of Mel](http://www.pbm.com/~lindahl/mel.html)
 
-##Technical fundamentals
-
-[The Unix and Internet Fundamentals](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
-
-[The Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
-
 ##Agility
 
 [Manifesto for Agile Software Development](http://agilemanifesto.org/)
@@ -43,6 +37,12 @@ I'm a beginner at programming, I try to learn in an efficient way. Entering in a
 [The Surprisingly Large Cost of Telling Small Lies](http://boss.blogs.nytimes.com/2014/03/11/the-surprisingly-large-cost-of-telling-small-lies/)
 
 [Hacker Mythologies and Mismanagement](https://modelviewculture.com/pieces/hacker-mythologies-and-mismanagement)
+
+##Technical fundamentals
+
+[The Unix and Internet Fundamentals](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
+
+[The Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
 
 ##Languages
 
