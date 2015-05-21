@@ -1,6 +1,8 @@
 # Documentation
 
-I'm a beginner at programming, so I collect wisdom from masters. Every one of these texts changed something in my vision of the job, and I hope that together, they define some cultural background for the profession.
+I'm a beginner at programming, I try to learn in an efficient way. Entering in a new field does not only require technical knowledge. You also need to understand the cultural background of the profession.
+
+##Starting
 
 [How to become a hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
 
@@ -44,46 +46,29 @@ I'm a beginner at programming, so I collect wisdom from masters. Every one of th
 
 ##Languages
 
-###Javascript
-
 [The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070)
-
-[Eloquent Javascript](http://fr.eloquentjavascript.net/contents.html)
-
-[Javascript, the good parts](https://www.acmi.net.au/media/12347/javascript_the_good_parts.pdf)
-
-[Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
-
-[The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/index.html)
-
-###Ruby
 
 [About Ruby](https://www.ruby-lang.org/en/about/)
 
-[Why's (Poignant) guide to Ruby](http://mislav.uniqpath.com/poignant-guide/book/chapter-1.html)
-
-[Ruby Monk](https://rubymonk.com/)
-
-###HTML
-[Dive into HTML5](http://fortuito.us/diveintohtml5/)
-
-##Misc
+##Design
 
 [Don't make me think](http://www.ni.ac.rs/images/stories/opsti/DMMT.pdf)
 
 [Less is More: Fundamentals of Minimalist Web Design](http://webdesign.tutsplus.com/articles/less-is-more-fundamentals-of-minimalist-web-design--webdesign-8)
 
-[Mobile Web App Checklist](http://www.luster.io/blog/9-29-14-mobile-web-checklist.html)
-
-[How Heroku works](https://devcenter.heroku.com/articles/how-heroku-works)
-
-###Animation
+##Animation
 
 [Animation Principles for the Web](https://cssanimation.rocks/principles/)
 
 [The State Of Animation 2014](http://www.smashingmagazine.com/2014/11/18/the-state-of-animation-2014/)
 
-##Bookshelves
+##Misc 
+
+[Mobile Web App Checklist](http://www.luster.io/blog/9-29-14-mobile-web-checklist.html)
+
+[How Heroku works](https://devcenter.heroku.com/articles/how-heroku-works)
+
+##Bookshelf
 
 [free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md)
 
