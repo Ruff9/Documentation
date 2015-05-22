@@ -1,6 +1,8 @@
 # Documentation
 
-Opiniated collection of cultural material in the programming field. Point is to help beginners to fully understand their new profession.
+Opiniated collection of cultural material in the programming field. 
+
+This is meant to help beginners to fully understand their new profession.
 
 ##Starting
 
