@@ -40,6 +40,8 @@ I'm a beginner at programming, I try to learn in an efficient way. Entering a ne
 
 ##Technical fundamentals
 
+[Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
+
 [The Unix and Internet Fundamentals](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
 
 [The Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
