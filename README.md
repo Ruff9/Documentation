@@ -1,6 +1,6 @@
 # Documentation
 
-I'm a beginner at programming, I try to learn in an efficient way. Entering a new field does not only require technical knowledge. Every profession has a cultural background, which is critical to understand if you want to do things right. This file is an attempt to define the culture of the programming field.
+I'm a beginner at programming, I try to learn in an efficient way. Entering a new field does not only require technical knowledge. Every profession has a cultural background, which is critical to understand if you want to do things right. This is a collection of cultural material in the programming field.
 
 ##Starting
 
