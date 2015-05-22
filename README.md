@@ -76,7 +76,7 @@ This is meant to help beginners to fully understand their new profession.
 
 ##Bookshelves
 
-[free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md)
+[Free programming books](https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md)
 
 [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
 
