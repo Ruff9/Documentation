@@ -1,6 +1,6 @@
 # Documentation
 
-I'm a beginner at programming, I try to learn in an efficient way. Entering a new field does not only require technical knowledge. Every profession has a cultural background, which is critical to understand if you want to do things right. This is a collection of cultural material in the programming field.
+Opiniated collection of cultural material in the programming field. Point is to help beginners to fully understand their new profession.
 
 ##Starting
 
@@ -49,6 +49,8 @@ I'm a beginner at programming, I try to learn in an efficient way. Entering a ne
 ##Languages
 
 [The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070)
+
+[Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 [About Ruby](https://www.ruby-lang.org/en/about/)
 
