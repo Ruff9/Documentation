@@ -74,10 +74,12 @@ This is meant to help beginners to fully understand their new profession.
 
 [How Heroku works](https://devcenter.heroku.com/articles/how-heroku-works)
 
-##Bookshelf
+##Bookshelves
 
 [free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md)
 
 [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
 
 [Google: Guide for technical development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+
+[Papers we love](https://github.com/papers-we-love/papers-we-love)
