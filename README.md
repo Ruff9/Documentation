@@ -2,7 +2,7 @@
 
 Opiniated collection of cultural material in the programming field. 
 
-This is meant to help beginners fully understand their new profession.
+This is meant to help beginners get a better understanding of their new profession.
 
 ##Starting
 
