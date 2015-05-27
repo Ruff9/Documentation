@@ -14,6 +14,16 @@ This is meant to help beginners fully understand their new profession.
 
 [Portrait of a noob](http://steve-yegge.blogspot.fr/2008/02/portrait-of-n00b.html)
 
+##Fundamentals
+
+[The nature of code](http://natureofcode.com/book/)
+
+[Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
+
+[The Unix and Internet Fundamentals](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
+
+[The Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
+
 ##History
 
 [Modern history of computing](http://plato.stanford.edu/entries/computing-history/)
@@ -39,16 +49,6 @@ This is meant to help beginners fully understand their new profession.
 [The Surprisingly Large Cost of Telling Small Lies](http://boss.blogs.nytimes.com/2014/03/11/the-surprisingly-large-cost-of-telling-small-lies/)
 
 [Hacker Mythologies and Mismanagement](https://modelviewculture.com/pieces/hacker-mythologies-and-mismanagement)
-
-##Technical fundamentals
-
-[The nature of code](http://natureofcode.com/book/)
-
-[Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
-
-[The Unix and Internet Fundamentals](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
-
-[The Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
 
 ##Languages
 
