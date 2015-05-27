@@ -42,6 +42,8 @@ This is meant to help beginners fully understand their new profession.
 
 ##Technical fundamentals
 
+[The nature of code](http://natureofcode.com/book/)
+
 [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
 
 [The Unix and Internet Fundamentals](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
