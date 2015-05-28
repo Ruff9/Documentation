@@ -85,3 +85,5 @@ This is meant to help beginners get a better understanding of their new professi
 [Google: Guide for technical development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 
 [Papers we love](https://github.com/papers-we-love/papers-we-love)
+
+[Hacker shelf](http://hackershelf.com/browse/?popular=1)
