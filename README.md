@@ -18,11 +18,15 @@ This is meant to help beginners get a better understanding of their new professi
 
 [The nature of code](http://natureofcode.com/book/)
 
+[What is code ?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+
 [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
 
 [The Unix and Internet Fundamentals](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
 
 [The Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
+
+[No Silver Bullet: Essence and Accidents of Software Engineering](http://www.cs.nott.ac.uk/~cah/G51ISS/Documents/NoSilverBullet.html)
 
 ##History
 
