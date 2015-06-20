@@ -40,6 +40,8 @@ This is meant to help beginners get a better understanding of their new professi
 
 [Manifesto for Agile Software Development](http://agilemanifesto.org/)
 
+[Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
+
 [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
 
 [Modern Extreme Programming](http://benjiweber.co.uk/blog/2015/04/17/modern-extreme-programming/)
