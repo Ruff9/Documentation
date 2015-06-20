@@ -66,18 +66,6 @@ This is meant to help beginners get a better understanding of their new professi
 
 [Why Golang is doomed to succeed](https://texlution.com/post/why-go-is-doomed-to-succeed/)
 
-##Misc 
-
-[Mobile Web App Checklist](http://www.luster.io/blog/9-29-14-mobile-web-checklist.html)
-
-[How Heroku works](https://devcenter.heroku.com/articles/how-heroku-works)
-
-[Less is More: Fundamentals of Minimalist Web Design](http://webdesign.tutsplus.com/articles/less-is-more-fundamentals-of-minimalist-web-design--webdesign-8)
-
-[Animation Principles for the Web](https://cssanimation.rocks/principles/)
-
-[The State Of Animation 2014](http://www.smashingmagazine.com/2014/11/18/the-state-of-animation-2014/)
-
 ##Bookshelves
 
 [Free programming books](https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md)
