@@ -66,6 +66,10 @@ This is meant to help beginners get a better understanding of their new professi
 
 [Why Golang is doomed to succeed](https://texlution.com/post/why-go-is-doomed-to-succeed/)
 
+##Performance
+
+[Jank Free](http://jankfree.org/)
+
 ##Bookshelves
 
 [Free programming books](https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md)
