@@ -68,6 +68,8 @@ This is meant to help beginners get a better understanding of their new professi
 
 ##Performance
 
+[Ludicrously Fast Page Loads](http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html)
+
 [Jank Free](http://jankfree.org/)
 
 ##Bookshelves
