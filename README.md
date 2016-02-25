@@ -56,6 +56,8 @@ This is meant to help beginners get a better understanding of their new professi
 
 [Hacker Mythologies and Mismanagement](https://modelviewculture.com/pieces/hacker-mythologies-and-mismanagement)
 
+[The Duct Tape programmer](http://www.joelonsoftware.com/items/2009/09/23.html)
+
 ##Languages
 
 [The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070)
