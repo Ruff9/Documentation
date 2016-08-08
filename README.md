@@ -44,9 +44,9 @@ This is meant to help beginners get a better understanding of their new professi
 
 [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
 
-[Modern Extreme Programming](http://benjiweber.co.uk/blog/2015/04/17/modern-extreme-programming/)
-
 [The Twelve-Factor app](http://12factor.net/)
+
+[Why I'm not a big fan of Scrum](http://okigiveup.net/not-big-fan-of-scrum/)
 
 ##Human Factor
 
