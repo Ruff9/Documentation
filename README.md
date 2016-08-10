@@ -38,11 +38,15 @@ This is meant to help beginners get a better understanding of their new professi
 
 ##Agility
 
+[The New Methodology](http://www.martinfowler.com/articles/newMethodology.html)
+
 [Manifesto for Agile Software Development](http://agilemanifesto.org/)
 
 [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 
 [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
+
+[A Generation Lost in the Bazaar](http://queue.acm.org/detail.cfm?id=2349257)
 
 [The Twelve-Factor app](http://12factor.net/)
 
