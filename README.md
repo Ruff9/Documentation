@@ -14,6 +14,8 @@ This is meant to help beginners get a better understanding of their new professi
 
 [Portrait of a noob](http://steve-yegge.blogspot.fr/2008/02/portrait-of-n00b.html)
 
+[Linux for Absolute Beginners](http://www.linfo.org/newbies.html)
+
 ##Fundamentals
 
 [The nature of code](http://natureofcode.com/book/)
@@ -27,6 +29,8 @@ This is meant to help beginners get a better understanding of their new professi
 [The Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
 
 [No Silver Bullet: Essence and Accidents of Software Engineering](http://www.cs.nott.ac.uk/~cah/G51ISS/Documents/NoSilverBullet.html)
+
+[The rule of silence](http://www.linfo.org/rule_of_silence.html)
 
 ##History
 
