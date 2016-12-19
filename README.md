@@ -48,6 +48,8 @@ This is meant to help beginners get a better understanding of their new professi
 
 [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 
+[The longflow manifesto](https://github.com/Nax/longflow-manifesto/blob/master/README.md)
+
 [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
 
 [A Generation Lost in the Bazaar](http://queue.acm.org/detail.cfm?id=2349257)
