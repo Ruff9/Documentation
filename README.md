@@ -78,7 +78,7 @@ This is meant to help beginners get a better understanding of their new professi
 
 [Why Golang is doomed to succeed](https://texlution.com/post/why-go-is-doomed-to-succeed/)
 
-##Performance
+## Performance
 
 [Ludicrously Fast Page Loads](http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html)
 
