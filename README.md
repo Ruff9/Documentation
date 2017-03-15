@@ -4,7 +4,7 @@ Opiniated collection of cultural material in the programming field.
 
 This is meant to help beginners get a better understanding of their new profession.
 
-##Starting
+## Starting
 
 [How to become a hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
 
@@ -16,7 +16,7 @@ This is meant to help beginners get a better understanding of their new professi
 
 [Linux for Absolute Beginners](http://www.linfo.org/newbies.html)
 
-##Fundamentals
+## Fundamentals
 
 [The nature of code](http://natureofcode.com/book/)
 
@@ -32,7 +32,7 @@ This is meant to help beginners get a better understanding of their new professi
 
 [The rule of silence](http://www.linfo.org/rule_of_silence.html)
 
-##History
+## History
 
 [Modern history of computing](http://plato.stanford.edu/entries/computing-history/)
 
@@ -40,7 +40,7 @@ This is meant to help beginners get a better understanding of their new professi
 
 [The story of Mel](http://www.pbm.com/~lindahl/mel.html)
 
-##Agility
+## Agility
 
 [The New Methodology](http://www.martinfowler.com/articles/newMethodology.html)
 
@@ -58,7 +58,7 @@ This is meant to help beginners get a better understanding of their new professi
 
 [Why I'm not a big fan of Scrum](http://okigiveup.net/not-big-fan-of-scrum/)
 
-##Human Factor
+## Human Factor
 
 [Be kind](http://boz.com/articles/be-kind.html)
 
@@ -68,7 +68,7 @@ This is meant to help beginners get a better understanding of their new professi
 
 [The Duct Tape programmer](http://www.joelonsoftware.com/items/2009/09/23.html)
 
-##Languages
+## Languages
 
 [The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070)
 
@@ -84,7 +84,7 @@ This is meant to help beginners get a better understanding of their new professi
 
 [Jank Free](http://jankfree.org/)
 
-##Bookshelves
+## Bookshelves
 
 [Free programming books](https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md)
 
