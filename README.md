@@ -82,7 +82,7 @@ This is meant to help beginners get a better understanding of their new professi
 
 [Microservices: a definition of this new architectural term](https://martinfowler.com/articles/microservices.html)
 
-[Architecture: the lost years](Architecture the Lost Years)
+[Architecture: the lost years](http://confreaks.tv/videos/rubymidwest2011-keynote-architecture-the-lost-years)
 
 [Principles of chaos engineering](http://principlesofchaos.org/)
 
