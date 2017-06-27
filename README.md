@@ -40,6 +40,12 @@ At the beginning, this was meant to help beginners get a better understanding of
 
 [The story of Mel](http://www.pbm.com/~lindahl/mel.html)
 
+[Richard Stallman about Free Software](https://www.gnu.org/events/rms-nyu-2001-transcript.txt)
+
+[The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
+
+[A Generation Lost in the Bazaar](http://queue.acm.org/detail.cfm?id=2349257)
+
 ## Agility
 
 [The New Methodology](http://www.martinfowler.com/articles/newMethodology.html)
@@ -49,10 +55,6 @@ At the beginning, this was meant to help beginners get a better understanding of
 [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 
 [The longflow manifesto](https://github.com/Nax/longflow-manifesto/blob/master/README.md)
-
-[The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
-
-[A Generation Lost in the Bazaar](http://queue.acm.org/detail.cfm?id=2349257)
 
 [The Twelve-Factor app](http://12factor.net/)
 
