@@ -72,16 +72,6 @@ At the beginning, this was meant to help beginners get a better understanding of
 
 [The Duct Tape programmer](http://www.joelonsoftware.com/items/2009/09/23.html)
 
-## Languages
-
-[The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070)
-
-[Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
-
-[About Ruby](https://www.ruby-lang.org/en/about/)
-
-[Why Golang is doomed to succeed](https://texlution.com/post/why-go-is-doomed-to-succeed/)
-
 ## Architecture
 
 [SOLID (object-oriented design)](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
@@ -93,6 +83,16 @@ At the beginning, this was meant to help beginners get a better understanding of
 [Architecture: the lost years](http://confreaks.tv/videos/rubymidwest2011-keynote-architecture-the-lost-years) (video)
 
 [Principles of chaos engineering](http://principlesofchaos.org/)
+
+## Languages
+
+[The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070)
+
+[Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+[About Ruby](https://www.ruby-lang.org/en/about/)
+
+[Why Golang is doomed to succeed](https://texlution.com/post/why-go-is-doomed-to-succeed/)
 
 ## Performance
 
