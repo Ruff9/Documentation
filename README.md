@@ -82,7 +82,11 @@ At the beginning, this was meant to help beginners get a better understanding of
 
 ## Architecture
 
+[SOLID (object-oriented design)](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+
 [Microservices: a definition of this new architectural term](https://martinfowler.com/articles/microservices.html)
+
+[The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 [Architecture: the lost years](http://confreaks.tv/videos/rubymidwest2011-keynote-architecture-the-lost-years)
 
