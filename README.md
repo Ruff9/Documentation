@@ -36,6 +36,8 @@ At the beginning, this was meant to help beginners get a better understanding of
 
 [Modern history of computing](http://plato.stanford.edu/entries/computing-history/)
 
+[The future of Programming (video)](https://youtu.be/ecIWPzGEbFc0)
+
 [Legendary hackers](http://www.autistici.org/rez/hackers.php)
 
 [The story of Mel](http://www.pbm.com/~lindahl/mel.html)
@@ -88,7 +90,7 @@ At the beginning, this was meant to help beginners get a better understanding of
 
 [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 
-[Architecture: the lost years](http://confreaks.tv/videos/rubymidwest2011-keynote-architecture-the-lost-years)
+[Architecture: the lost years (video)](http://confreaks.tv/videos/rubymidwest2011-keynote-architecture-the-lost-years)
 
 [Principles of chaos engineering](http://principlesofchaos.org/)
 
@@ -110,5 +112,5 @@ At the beginning, this was meant to help beginners get a better understanding of
 
 [Hacker shelf](http://hackershelf.com/browse/?popular=1)
 
-[Talks that changed the way I think about programming](http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/)
+[Talks that changed the way I think about programming (videos)](http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/)
 
