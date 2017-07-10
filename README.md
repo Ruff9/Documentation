@@ -84,6 +84,10 @@ At the beginning, this was meant to help beginners get a better understanding of
 
 [Principles of chaos engineering](http://principlesofchaos.org/)
 
+## Coding technique
+
+[Sandi Metz' Rules For Developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)
+
 ## Languages
 
 [The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070)
