@@ -98,6 +98,14 @@ At the beginning, this was meant to help beginners get a better understanding of
 
 [Why Golang is doomed to succeed](https://texlution.com/post/why-go-is-doomed-to-succeed/)
 
+### Elixir
+
+[Official homepage](https://elixir-lang.org/)
+
+[Elixir School](https://elixirschool.com/en/)
+
+[Joy of Elixir](https://joyofelixir.com/)
+
 ## Performance
 
 [Ludicrously Fast Page Loads](https://www.speedshop.co/2015/10/07/frontend-performance-chrome-timeline.html)
