@@ -48,6 +48,8 @@ At the beginning, this was meant to help beginners get a better understanding of
 
 [A Generation Lost in the Bazaar](http://queue.acm.org/detail.cfm?id=2349257)
 
+[The Languages Which Almost Became CSS](https://blog.cloudflare.com/the-languages-which-almost-became-css/)
+
 ## Agility
 
 [The New Methodology](http://www.martinfowler.com/articles/newMethodology.html)
