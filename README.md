@@ -42,6 +42,8 @@ At the beginning, this was meant to help beginners get a better understanding of
 
 [The story of Mel](http://www.pbm.com/~lindahl/mel.html)
 
+[The GNU Manifesto](http://www.linfo.org/manifesto.html)
+
 [Richard Stallman about Free Software](https://www.gnu.org/events/rms-nyu-2001-transcript.txt)
 
 [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
