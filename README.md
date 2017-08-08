@@ -2,7 +2,7 @@
 
 Opiniated collection of cultural material in the programming field. 
 
-At the beginning, this was meant to help beginners get a better understanding of their new profession. But the more I walk through the self-training path of a software developper, the more I think deep thoughts are usefull for all experience levels.
+I started this to help beginners get a better understanding of their new profession. But the more I progress on the self-training path of a software developper, the more I value deep thoughts and experience shared by the elders.
 
 ## Starting
 
