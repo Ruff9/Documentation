@@ -78,6 +78,8 @@ I started this to help beginners get a better understanding of their new profess
 
 ## Architecture
 
+[Basics of the Unix Philosophy](http://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html)
+
 [SOLID (object-oriented design)](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 
 [Microservices: a definition of this new architectural term](https://martinfowler.com/articles/microservices.html)
