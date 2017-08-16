@@ -30,8 +30,6 @@ I started this to help beginners get a better understanding of their new profess
 
 [No Silver Bullet: Essence and Accidents of Software Engineering](http://www.cs.nott.ac.uk/~cah/G51ISS/Documents/NoSilverBullet.html)
 
-[The rule of silence](http://www.linfo.org/rule_of_silence.html)
-
 ## History
 
 [Modern history of computing](http://plato.stanford.edu/entries/computing-history/)
@@ -77,6 +75,8 @@ I started this to help beginners get a better understanding of their new profess
 [The Duct Tape programmer](http://www.joelonsoftware.com/items/2009/09/23.html)
 
 ## Architecture
+
+[The rule of silence](http://www.linfo.org/rule_of_silence.html)
 
 [Basics of the Unix Philosophy](http://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html)
 
