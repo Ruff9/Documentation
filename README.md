@@ -64,6 +64,8 @@ I started this to help beginners get a better understanding of their new profess
 
 [Why I'm not a big fan of Scrum](http://okigiveup.net/not-big-fan-of-scrum/)
 
+[Linus Torvalds: “Do No Harm”](https://lkml.org/lkml/2017/11/21/356)
+
 ## Human Factor
 
 [Be kind](http://boz.com/articles/be-kind.html)
