@@ -76,6 +76,8 @@ I started this to help beginners get a better understanding of their new profess
 
 [The Duct Tape programmer](http://www.joelonsoftware.com/items/2009/09/23.html)
 
+[The Moral Economy of Tech](http://idlewords.com/talks/sase_panel.htm)
+
 ## Architecture
 
 [Basics of the Unix Philosophy](http://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html)
@@ -100,13 +102,15 @@ I started this to help beginners get a better understanding of their new profess
 
 [TDD is dead. Long live testing.](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
 
-## Languages
+## Languages / Frameworks
 
 [The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070)
 
 [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 [About Ruby](https://www.ruby-lang.org/en/about/)
+
+[The Rails Doctrine](http://rubyonrails.org/doctrine/)
 
 [Why Golang is doomed to succeed](https://texlution.com/post/why-go-is-doomed-to-succeed/)
 
