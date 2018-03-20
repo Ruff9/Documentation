@@ -50,6 +50,8 @@ I started this to help beginners get a better understanding of their new profess
 
 [The Languages Which Almost Became CSS](https://blog.cloudflare.com/the-languages-which-almost-became-css/)
 
+[Debugging Behind the Iron Curtain](http://archive.is/O70Rg)
+
 ## Agility
 
 [The New Methodology](http://www.martinfowler.com/articles/newMethodology.html)
