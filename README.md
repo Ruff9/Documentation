@@ -106,6 +106,8 @@ I started this to help beginners get a better understanding of their new profess
 
 ## Languages / Frameworks
 
+[Writing shell scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php)
+
 [The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070)
 
 [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
