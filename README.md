@@ -28,7 +28,7 @@ I started this to help beginners get a better understanding of their new profess
 
 [The Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
 
-[No Silver Bullet: Essence and Accidents of Software Engineering](http://www.cs.nott.ac.uk/~cah/G51ISS/Documents/NoSilverBullet.html)
+[No Silver Bullet: Essence and Accidents of Software Engineering](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
 
 ## History
 
