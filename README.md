@@ -52,6 +52,8 @@ I started this to help beginners get a better understanding of their new profess
 
 [Debugging Behind the Iron Curtain](http://archive.is/O70Rg)
 
+[The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
+
 ## Agility
 
 [The New Methodology](http://www.martinfowler.com/articles/newMethodology.html)
