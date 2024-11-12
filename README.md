@@ -26,6 +26,8 @@ I started this to help beginners get a better understanding of their new profess
 
 [The Unix and Internet Fundamentals](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
 
+[The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/)
+
 [The Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
 
 [No Silver Bullet: Essence and Accidents of Software Engineering](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
