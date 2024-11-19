@@ -120,6 +120,10 @@ I started this to help beginners get a better understanding of their new profess
 
 [The Rails Doctrine](http://rubyonrails.org/doctrine/)
 
+[The zen of Python](https://peps.python.org/pep-0020/)
+
+[Django design philosophies](https://docs.djangoproject.com/en/5.1/misc/design-philosophies/)
+
 [Why Golang is doomed to succeed](https://texlution.com/post/why-go-is-doomed-to-succeed/)
 
 [Elixir homepage](https://elixir-lang.org/)
