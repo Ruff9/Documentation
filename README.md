@@ -24,7 +24,7 @@ I started this to help beginners get a better understanding of their new profess
 
 [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
 
-[The Unix and Internet Fundamentals](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
+[The Unix and Internet Fundamentals](https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
 
 [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/)
 
