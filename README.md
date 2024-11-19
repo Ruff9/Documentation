@@ -10,8 +10,6 @@ I started this to help beginners get a better understanding of their new profess
 
 [Teach yourself programming in ten years](http://norvig.com/21-days.html)
 
-[Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
-
 [Portrait of a noob](http://steve-yegge.blogspot.fr/2008/02/portrait-of-n00b.html)
 
 [Linux for Absolute Beginners](http://www.linfo.org/newbies.html)
@@ -22,7 +20,7 @@ I started this to help beginners get a better understanding of their new profess
 
 [What is code ?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
-[Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
+[Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)
 
 [The Unix and Internet Fundamentals](https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
 
