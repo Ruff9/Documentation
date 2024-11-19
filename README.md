@@ -50,7 +50,7 @@ I started this to help beginners get a better understanding of their new profess
 
 [The Languages Which Almost Became CSS](https://blog.cloudflare.com/the-languages-which-almost-became-css/)
 
-[Debugging Behind the Iron Curtain](http://archive.is/O70Rg)
+[Debugging Behind the Iron Curtain](https://www.jakepoz.com/debugging-behind-the-iron-curtain/)
 
 [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
 
