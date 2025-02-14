@@ -34,11 +34,15 @@ I started this to help beginners get a better understanding of their new profess
 
 [Modern history of computing](http://plato.stanford.edu/entries/computing-history/)
 
+[The 7 Most Influential Papers in Computer Science History](https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/)
+
 [The future of Programming](https://youtu.be/ecIWPzGEbFc0) (video)
 
 [Legendary hackers](http://www.autistici.org/rez/hackers.php)
 
 [The story of Mel](http://www.pbm.com/~lindahl/mel.html)
+
+[Software Folklore](https://beza1e1.tuxen.de/lore/)
 
 [The GNU Manifesto](http://www.linfo.org/manifesto.html)
 
