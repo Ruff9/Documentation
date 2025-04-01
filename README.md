@@ -100,6 +100,8 @@ I started this to help beginners get a better understanding of their new profess
 
 [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 
+[The Architecture of Open Source Applications](https://aosabook.org/en/)
+
 [Architecture: the lost years](http://confreaks.tv/videos/rubymidwest2011-keynote-architecture-the-lost-years) (video)
 
 [Principles of chaos engineering](http://principlesofchaos.org/)
