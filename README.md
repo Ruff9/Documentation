@@ -2,7 +2,7 @@
 
 Opiniated collection of cultural material in the programming field. 
 
-I started this to help beginners get a better understanding of their new profession, but I find it more and more useful.
+I started this to help beginners get a better understanding of their new profession. I've been updating this file for 10 years, and now I think it's useful for anybody that touch code.
 
 ## Starting
 
@@ -34,7 +34,7 @@ I started this to help beginners get a better understanding of their new profess
 
 [Modern history of computing](http://plato.stanford.edu/entries/computing-history/)
 
-[The 7 Most Influential Papers in Computer Science History](https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/)
+[The 7 Most Influential Papers in Computer Science History](https://terriblesoftware.org/2025/01/22/the-7-most-influen21tial-papers-in-computer-science-history/)
 
 [The future of Programming](https://youtu.be/ecIWPzGEbFc0) (video)
 
@@ -133,12 +133,6 @@ I started this to help beginners get a better understanding of their new profess
 [Why Golang is doomed to succeed](https://texlution.com/post/why-go-is-doomed-to-succeed/)
 
 [Elixir homepage](https://elixir-lang.org/)
-
-## Performance
-
-[Ludicrously Fast Page Loads](https://www.speedshop.co/2015/10/07/frontend-performance-chrome-timeline.html)
-
-[Jank Free](http://jankfree.org/)
 
 ## Bookshelves
 
