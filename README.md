@@ -2,7 +2,7 @@
 
 Opiniated collection of cultural material in the programming field. 
 
-I started this to help beginners get a better understanding of their new profession. I've been updating this file for 10 years, and now I think it's useful for anybody that touch code.
+I started this to help beginners get a better understanding of their new profession. I've been updating this file for 10 years, and I think it's useful for anybody interested in coding.
 
 ## Starting
 
@@ -35,8 +35,6 @@ I started this to help beginners get a better understanding of their new profess
 [Modern history of computing](http://plato.stanford.edu/entries/computing-history/)
 
 [The 7 Most Influential Papers in Computer Science History](https://terriblesoftware.org/2025/01/22/the-7-most-influen21tial-papers-in-computer-science-history/)
-
-[The future of Programming](https://youtu.be/ecIWPzGEbFc0) (video)
 
 [Legendary hackers](http://www.autistici.org/rez/hackers.php)
 
@@ -102,8 +100,6 @@ I started this to help beginners get a better understanding of their new profess
 
 [The Architecture of Open Source Applications](https://aosabook.org/en/)
 
-[Architecture: the lost years](http://confreaks.tv/videos/rubymidwest2011-keynote-architecture-the-lost-years) (video)
-
 [Principles of chaos engineering](http://principlesofchaos.org/)
 
 ## Coding technique
@@ -144,5 +140,5 @@ I started this to help beginners get a better understanding of their new profess
 
 [Hacker shelf](http://hackershelf.com/browse/?popular=1)
 
-[Talks that changed the way I think about programming](http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/) (videos)
+[Talks that changed the way I think about programming](http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/)
 
