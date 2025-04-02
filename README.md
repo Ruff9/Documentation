@@ -112,8 +112,6 @@ I started this to help beginners get a better understanding of their new profess
 
 [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 
-[TDD is dead. Long live testing.](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
-
 ## Languages / Frameworks
 
 [Writing shell scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php)
