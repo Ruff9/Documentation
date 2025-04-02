@@ -130,7 +130,7 @@ I started this to help beginners get a better understanding of their new profess
 
 ## Bookshelves
 
-[Free programming books](https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md)
+[Free programming books](https://github.com/EbookFoundation/free-programming-books)
 
 [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
 
